@@ -10,7 +10,7 @@ Tracking Addidas KPIs across 2021 and 2022 , track the sales across the differen
 - Total sales has the highest amount in July and Agust
 - West Region is the highest sales , Midwest is the lowest sales.
 - Top 5 cities in sales are : Charleston , New work , San Fransesco , Miami , Port land
-- Bottom 5 cities in  sales are : Fargo , Mil, Des Moines , Minneapolis , omha
+- Bottom 5 cities in  sales are : Fargo , Milmauke, Des Moines , Minneapolis , omaha
 - Instore sales method is the highest sales.
 ## Recommendation:
 - provide large number of products in July and august as they are the highest sales months
