@@ -4,7 +4,7 @@ Tracking key performance indicators (KPIs) for Adidas across 2021 and 2022, anal
 ## pivot tables:
 ![Adidas-sales-data-analysis-project-Excel](https://github.com/Arwa988/Adidas-sales-data-analysis-project-Excel-/blob/main/images/Adidas%20pivot%20tables.png)
 ## Dashboard:
-![Adidas-sales-data-analysis-project-Excel](https://github.com/Arwa988/Adidas-sales-data-analysis-project-Excel-/blob/main/Adidas%20sales%20dashboard.png)
+![Adidas-sales-data-analysis-project-Excel](https://github.com/Arwa988/Adidas-sales-data-analysis-project-Excel-/blob/main/images/Adidas%20sales%20dashboard.png)
 ## Insights:
 - Total sales increased significantly from 2020 to 2021
 - Total sales has the highest amount in July and Agust
