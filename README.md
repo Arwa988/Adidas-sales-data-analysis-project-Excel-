@@ -14,6 +14,9 @@ Tracking key performance indicators (KPIs) for Adidas across 2021 and 2022, anal
 - Instore sales method is the highest sales.
 ## Recommendation:
 - provide large number of products in July and august as they are the highest sales months
-- Increase the marketing campains in Midwest and the countries that have the lowest number of sales 
+- Increase the marketing campains in Midwest and the countries that have the lowest number of sales
+- Introduce promotional offers or loyalty programs in low-sales cities to boost engagement.
+- Expand online sales channels in regions with low in-store traffic.
+- Use customer feedback to tailor marketing strategies by region and city preferences.
 
 
