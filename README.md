@@ -1,6 +1,6 @@
 # Addidas data analysis project
 ## Project Idea:
-Tracking Addidas KPIs across 2021 and 2022 , track the sales across the different regions and cities and track the sales change over the months of the year.
+Tracking key performance indicators (KPIs) for Adidas across 2021 and 2022, analyzing sales trends across different regions and cities, and monitoring monthly sales fluctuations throughout the ye
 ## pivot tables:
 ![Adidas-sales-data-analysis-project-Excel](https://github.com/Arwa988/Adidas-sales-data-analysis-project-Excel-/blob/main/pivot-tables.png)
 ## Dashboard:
